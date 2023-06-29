@@ -23,6 +23,13 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.paragraph-4 {
+    font-style: italic;
+    text-align: center;
+    font-size: 24px;
+    text-shadow: 2px 3px 3px green;
+}
+
 /*
 background
 font-size
